@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <title>Dota 2</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+</head>
+
+<body>
+
+<header>
+
+  <h1>Dota 2</h1>
+
+</header>
+
+<main>
+
+  <section aria-labelledby="toc-title" id="toc" style="margin-bottom: 8px;">
+
+    <h2 id="toc-title" style="text-align:center; color:#374151; font-family: Georgia, serif;">
+
+      Оглавление
+
+    </h2>
+
+    <ul style="max-width: 700px; margin: 0 auto; padding-left: 20px;">
+
+      <li><a href="#section1">1. Раздел: История Dota 2</a></li>
+
+      <li><a href="#section2">2. Раздел: Герои и Роли</a></li>
+
+    </ul>
+
+  </section>
+
+  <section id="section1" aria-labelledby="section1-title">
+
+    <h2 id="section1-title">Раздел: История Dota 2</h2>
+
+    <p>
+
+      Dota 2 — это многопользовательская онлайн-арена (MOBA), разработанная и изданная компанией Valve. <strong>Игра является самостоятельным продолжением Defense of the Ancients (DotA)</strong>, пользовательской модификации для Warcraft III: Reign of Chaos.
+
+      <em>Официальный релиз Dota 2 состоялся в июле 2013 года</em>, и с тех пор игра стала одной из самых популярных и влиятельных в жанре MOBA.
+
+    </p>
+
+    <p>
+
+      Dota 2 отличается от других MOBA-игр своей глубиной, сложностью и стратегическим разнообразием. <em>Valve регулярно выпускает обновления, добавляя новых героев, предметы и изменяя баланс игры</em>.
+
+      Турниры по Dota 2 привлекают миллионы зрителей и предлагают огромные призовые фонды.
+
+    </p>
+
+    <p><strong>Кратко:</strong> Dota 2 — это культовая игра с богатой историей и огромным вкладом в развитие киберспорта.</p>
+
+  </section>
+
+  <hr>
+
+  <section id="section2" aria-labelledby="section2-title">
+
+    <h3 id="section2-title">Раздел: Герои и Роли</h3>
+
+    <p>В Dota 2 представлено более ста уникальных героев, каждый из которых обладает своим набором способностей и стилем игры. <strong>Герои делятся на различные роли, такие как керри, саппорт, мидер, оффлейнер и роумер</strong>.
+
+    <em>Выбор героя и понимание его роли в команде — ключевой аспект успешной игры</em>. Композиция команды должна быть сбалансированной, чтобы обеспечить синергию между героями и эффективное выполнение поставленных задач.
+
+    </p>
+
+    <p>Керри — это герои, которые становятся сильнее по мере получения опыта и предметов, и в поздней игре способны наносить огромный урон. <em>Саппорты помогают керри, обеспечивая им защиту и контроль над врагами</em>.</p>
+
+    <p>Мидеры играют на средней линии и контролируют карту, оказывая влияние на другие линии. <strong>Оффлейнеры выживают на сложной линии, оказывая давление на вражеского керри</strong>.</p>
+
+    <img src="https://i.pinimg.com/originals/92/60/15/926015bda760eb5b0a3e8f7a1315fa78.jpg" alt="клопа герой доты ">
+
+  <hr>
+
+<section id="section3" aria-labelledby="section3-title">
+
+    <h3 id="section3-title">Раздел: Стратегии и Тактики</h3>
+
+    <p>Dota 2 — это игра, в которой стратегии и тактики играют огромную роль. <strong>Команды разрабатывают различные стратегии, основанные на выборе героев, расстановке на карте и контроле над ключевыми точками</strong>.
+
+      <em>Важно уметь адаптироваться к стратегии противника и быстро принимать решения в меняющейся игровой ситуации</em>. Коммуникация между игроками является ключевым фактором успеха. </p>
+
+    <ul>
+
+      <li>Стратегия ранней агрессии: команды стараются захватить преимущество в начале игры, оказывая давление на вражеские линии и разрушая башни.</li>
+
+      <li>Стратегия защиты: команды сосредоточены на защите своих башен и фарме, чтобы обеспечить преимущество в поздней игре.</li>
+
+      <li>Стратегия сплит-пуша: команды разделяются и пушат разные линии, отвлекая внимание противника и создавая возможности для атаки на главную базу.</li>
+
+    </ul>
+
+    <p>Больше о Dota 2 можно узнать на официальном <a href="https://www.dota2.com/home" target="_blank" rel="noopener">сайте игры</a>.</p>
+
+  </section>
+
+</main>
+
+<footer>
+
+  <p>Марат Янбухтин</p>
+
+</footer>
+
+</body>
+
+</html>
+
+<style>
+
+     { box-sizing: border-box; }
+
+    body {
+
+      margin: 0;
+
+      font-family: Inter, system-ui, -apple-system, Arial, sans-serif;
+
+      color: #000000;
+
+      background: #f6f7fb;
+
+    }
+
+    header {
+
+      background: #800808;
+
+      color: #000000
+
+       ;
+
+      padding: 18px 0;
+
+      text-align: center;
+
+    }
+
+    header h1 {
+
+      margin: 0;
+
+      font-family: "Poppins", "Arial", sans-serif;
+
+      font-weight: 600;
+
+      font-size: 28px;
+
+      letter-spacing: .2px;
+
+    }
+
+    nav {
+
+      background: #0b1020;
+
+      padding: 10px 0;
+
+    }
+
+    nav a {
+
+      color: #e9e7ff;
+
+      text-decoration: none;
+
+      margin: 0 12px;
+
+      font-size: 15px;
+
+    }
+
+    nav a{ text-decoration: underline; }
+
+    main {
+
+      max-width: 860px;
+
+      margin: 0 auto;
+
+      padding: 20px;
+
+    }
+
+    h2, h3 {
+
+      text-align: left;
+
+      color: #800808;
+
+      font-family: "Georgia", serif;
+
+    }
+
+    h2 { font-size: 1.6em; margin: 28px 0 8px; }
+
+    h3 { font-size: 1.4em; margin: 20px 0 8px; }
+
+    p { font-size: 1.05em; line-height: 1.7; margin: 12px 0; padding-right: 4px; padding-left: 4px; }
+
+    strong { font-weight: 700; }
+
+    em { font-style: italic; }
+
+    img { display: block; max-width: 100%; height: auto; margin: 12px auto; border: 1px solid #ddd; border-radius: 6px; }
+
+    hr { border: 0; height: 1px; background: #e5e7eb; margin: 22px 0; }
+
+    footer {
+
+      background: #e6eaf5;
+
+      color: #1f2937;
+
+      padding: 16px 20px;
+
+      font-size: 0.95em;
+
+    }
+
+(max-width: 600px) {
+
+      header h1 { font-size: 22px; }
+
+      h2 { font-size: 1.4em; }
+
+      h3 { font-size: 1.2em; }
+
+    }
+
+  </style>
