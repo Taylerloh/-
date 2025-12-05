@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Космос: бескрайние просторы</title>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Космос: бескрайние просторы</h1>
+
+    </header>
+
+    <h2>Что такое космос?</h2>
+
+    <p>
+
+        Сегодня <strong>космос</strong> — это огромное пространство за пределами нашей планеты, полное загадок и чудес. <em>Он включает в себя звезды, планеты, галактики и множество других небесных объектов</em>. Исследование космоса привлекает ученых и любителей астрономии по всему миру.
+
+    </p>
+
+    <hr>
+
+    <h3>Особенности и компоненты космоса</h3>
+
+    <p>
+
+        Существует <b>множество объектов</b> в космосе: от крошечных астероидов до гигантских черных дыр. <i>Каждый объект уникален и играет свою роль в структуре Вселенной</i>. Изучение этих объектов помогает нам понять законы физики и происхождение нашего мира.
+
+    </p>
+
+    <img src="https://i.pinimg.com/originals/d2/02/86/d20286174c8c8b16f4004cc2cdbe686e.jpg" alt="космос">
+
+    <hr>
+
+    <h3>Интересные факты о космосе</h3>
+
+    <p>
+
+        <strong>Первое</strong> путешествие человека в космос произошло в <em>1961 году</em>, когда Юрий Гагарин стал первым космонавтом. Исследования космоса продолжаются, и каждый год открываются новые факты о нашей Вселенной. Узнать больше о космосе можно в статье на <a href="https://ru.wikipedia.org/wiki/Космос" target="_blank">Википедии</a>.
+
+    </p>
+
+    <ul>
+
+        <li>Космос практически пуст, и в нем почти нет воздуха.</li>
+
+        <li>Звезды светят благодаря термоядерным реакциям в их ядрах.</li>
+
+        <li>Некоторые галактики находятся на миллиарды световых лет от нас.</li>
+
+        <li>В космосе нет звуков, так как звук не может распространяться в вакууме.</li>
+
+        <li>Человечество отправило множество зондов для изучения планет и спутников.</li>
+
+    </ul>
+
+    <footer>
+
+Сасал:Марат Янбухтин  <br>
+
+    </footer>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+ <style>
+
+    body {
+
+      background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/gray-sand.png'); 
+
+      font-family: Arial, sans-serif; 
+
+      margin: 0;
+
+      padding: 0;
+
+    }
+
+    header {
+
+      background-color: #f0f0f0; 
+
+      text-align: center;
+
+      padding: 20px;
+
+    }
+
+    h1 {
+
+      font-family: "Times New Roman", serif; 
+
+      color: #007bff; 
+
+      font-size: 2.5em;
+
+      margin: 0;
+
+    }
+
+    h2, h3 {
+
+      text-align: center; 
+
+    }
+
+    p {
+
+      font-size: 1.1em; 
+
+      line-height: 1.6;
+
+      padding: 0 20px;
+
+    }
+
+    strong { font-weight: bold; }
+
+    em { font-style: italic; }
+
+    img {
+
+      max-width: 100%;
+
+      height: auto;
+
+      display: block;
+
+      margin: 10px auto;
+
+    }
+
+    hr {
+
+      border: 0;
+
+      height: 1px;
+
+      background: #ccc;
+
+      margin: 20px 0;
+
+    }
+
+    ul {
+
+      padding: 0 20px;
+
+    }
+
+    footer {
+
+      background-color: #343a40; 
+
+      color: white;
+
+      text-align: left; 
+
+      padding: 10px 20px;
+
+      font-size: 0.9em;
+
+    }
+
+  </style>
+
